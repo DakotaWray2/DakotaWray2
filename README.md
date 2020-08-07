@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<a href="https://blissful-kilby-7900dd.netlify.app/now-playing?open">
-    <img src="https://blissful-kilby-7900dd.netlify.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
 <!--
 **DakotaWray2/DakotaWray2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
